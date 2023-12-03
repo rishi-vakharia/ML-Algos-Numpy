@@ -1,2 +1,3 @@
 # ML-Algos-Numpy
-LinReg, LogReg, GNB
+
+ML Algorithms Linear Regression, Logistic Regression, Multinomial Naive Bayes implemented in Python with NumPy library.
